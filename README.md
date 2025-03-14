@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mouadh! 👋
+
+I am a BAC Student,Visual Identity Designer,android Developer.
+
+![Mouadhbendjedidi's Stats](https://github-readme-stats.vercel.app/api?username=Mouadhbendjedidi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## My Tools
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,kotlin,vscode,js,py)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- Learning Web Development
+- Jetpack Compose
+- NixOS linux distro
+
 
 <!--
 **Mouadhbendjedidi/Mouadhbendjedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
