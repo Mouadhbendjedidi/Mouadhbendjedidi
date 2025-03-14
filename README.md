@@ -1,4 +1,4 @@
-# Hi, I'm Mouadh! 👋
+# Hi, I'm Mouadh!
 
 I am a BAC Student,Visual Identity Designer,android Developer.
 
