@@ -6,7 +6,7 @@ I am a BAC Student,Visual Identity Designer,android Developer.
 
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,vscode,neovim,nix,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,vscode,neovim,nix,obsidian,idea)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
