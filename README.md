@@ -1,16 +1,17 @@
 # Hi, I'm Mouadh!
 
-I am a BAC Student,Visual Identity Designer,android Developer.
+Visual Identity Designer & Developer.
 
 ![Mouadhbendjedidi's Stats](https://github-readme-stats.vercel.app/api?username=Mouadhbendjedidi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,vscode,neovim,nix,obsidian,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,vscode,neovim,nix,obsidian,figma)](https://skillicons.dev)
 
 ## 🌱 Currently 
 
-- national BAC Exam
+- learning Full stack development
+- figuring out which linux distro is better for me (i'm unstable i know)
 
 
 <!--
