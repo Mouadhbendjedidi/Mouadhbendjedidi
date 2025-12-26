@@ -6,12 +6,12 @@ Visual Identity Designer & Developer.
 
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,androidstudio,vscode,neovim,nix,obsidian,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode,nix,obsidian,arch,md,debian,docker)](https://skillicons.dev)
 
 ## 🌱 Currently 
 
-- learning Full stack development
-- figuring out which linux distro is better for me (i'm unstable i know)
+- Learning Nix & Webdev
+- selfhosting anything i could (not exposed to the internet)
 
 
 <!--
