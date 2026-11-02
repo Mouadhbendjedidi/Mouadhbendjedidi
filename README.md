@@ -1,16 +1,15 @@
-# Hi, I'm Mouadh!
+# Hello, I'm Mouadh!
 
 Visual Identity Designer & Developer.
 
-![Mouadhbendjedidi's Stats](https://github-readme-stats.vercel.app/api?username=Mouadhbendjedidi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode,nix,obsidian,arch,md,debian,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,vscode,nix,obsidian,arch,md,debian,docker,neovim)](https://skillicons.dev)
 
 ## 🌱 Currently 
 
-- Learning Nix & Webdev
+- Learning NixOS
+- Learning Kubernetes (K3S)
+- building random typescript projects
 - selfhosting anything i could (not exposed to the internet)
 
 
